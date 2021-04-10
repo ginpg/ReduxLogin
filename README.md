@@ -1,11 +1,11 @@
-# First UI
+### First UI
 
 1. index.js
 2. App.js
 3. Login.js
 4. Logout
 
-# Then Redux
+### Then Redux
 
         npm install react-redux
 
